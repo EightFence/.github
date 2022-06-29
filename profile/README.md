@@ -9,8 +9,8 @@
 ## Hi there 👋
 
 
-🙋‍♀️ We are [NextFence](https://nextfence.nl), a leading innovation Microsoft Security partner operating its services from the Netherlands and Cloud.<br>
-🚀 We provide Managed Sentinel and Managed Detection & Response service based on Microsoft Sentinel,  Microsoft Defender 365 and Microsoft Defender for Cloud.<br>
+🙋‍♀️ We are [NextFence](https://nextfence.nl), a leading Microsoft Security partner located in the Netherlands and Cloud.<br>
+🚀 We provide Managed Sentinel and Managed Detection & Response service based on Microsoft Sentinel, Microsoft 365 Defender and Microsoft Defender for Cloud.<br>
 🧙 Our Security professionals are **ALWAYS** operating and on the watch!<br>
 👩‍💻 Useful resources - [🌎](https://nextfence.nl) <br>
 🍿 Fun facts - we are also known as #OrangeArmy
